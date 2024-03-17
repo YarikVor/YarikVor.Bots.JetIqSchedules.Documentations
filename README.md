@@ -1,0 +1,1 @@
+# YarikVor.Bots.JetIqSchedules.Documentations
